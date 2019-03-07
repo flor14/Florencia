@@ -7,12 +7,12 @@ paginate        = 6
 canonifyurls    = true
 
 [params]
-  title       = "Hugo Casper Two"
+  title       = "Florencia"
   subtitle    = "Port of Casper 2.x for Hugo"
   copyright   = "© 2018"
 
   cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  description = "Describido."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
