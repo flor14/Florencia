@@ -1,4 +1,4 @@
-baseurl         = "florencia.netlify.com/"
+baseurl         = "https://florencia.netlify.com/"
 theme = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
