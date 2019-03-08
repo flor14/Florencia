@@ -5,8 +5,7 @@
         <img class="site-logo" src="{{ .Site.Params.logo  | absURL}}" alt="{{ .Site.Params.title }}" />
       {{else}} {{ .Site.Params.title }} {{end}} </h1>
         <h2 class="site-description">{{ .Site.Params.subtitle }} </h2>
-		{{ partial "i18nlist.html" . }} 
-    </div>
+	</div>
 
     <nav class="site-nav">
       <div class="site-nav-left"><ul class="nav" role="menu">
@@ -16,7 +15,8 @@
             <li class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}nav-current{{end}}" role="menuitem">
               <a href="{{.URL}}">{{.Name}}</a>
             </li>
-        {{end}}{{end}}
+		{{end}}{{end}}
+		{{ partial "i18nlist.html" . }} 
       </ul></div>
 
       <div class="site-nav-right">

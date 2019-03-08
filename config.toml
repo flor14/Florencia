@@ -1,6 +1,6 @@
 baseurl         = "https://florencia.netlify.com/"
 theme = "hugo-casper-two"
-languageCode    = "en-US"
+languageCode    = "en"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
@@ -31,11 +31,11 @@ canonifyurls    = true
 
   showSupport = true
 
-  author = "EM"
+  author = "Florencia"
   authorAvatar = "img/ghost-icon.png"
   authorLocation = "Bandung, ID"
   authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
+  authorDescription = "Científica"
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -51,8 +51,8 @@ canonifyurls    = true
   weight = 200
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
+  name = "R"
+  url = "/tags/R/"
   weight = 100
 
 [[menu.main]]
@@ -65,4 +65,23 @@ canonifyurls    = true
   url = "https://google.com/"
   weight = 95
 
+DefaultContentLanguage = "en"
+copyright = "Everything is mine"
 
+[languages]
+  [languages.en]
+    title = "English"
+    weight = 1
+    [[languages.en.menu.main]]
+     url = "en/"
+     name = "Home"
+     weight = 200
+  [languages.es]
+    title = "Espaniol"
+    weight = 2
+    [[languages.es.menu.main]]
+     url = "es/"
+     name = "Casa"
+     weight = 200
+    
+ 

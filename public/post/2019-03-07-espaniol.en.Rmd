@@ -1,0 +1,12 @@
+---
+title: espaniol
+author: Florencia
+date: '2019-03-07'
+slug: espaniol
+categories:
+  - R
+  - Development
+tags:
+  - go
+  - golang
+---
