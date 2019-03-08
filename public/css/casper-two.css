@@ -44,15 +44,6 @@
     color: yellow;
 }
 
-.alternate {
-    list-style-type: none;
-    width: 144px;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
-
 @media (min-width: 900px) {
     .ctsingle .post-feed {
         margin-top: -70px;
