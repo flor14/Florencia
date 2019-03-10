@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on English</title>
+    <link>https://florencia.netlify.com/categories/</link>
+    <description>Recent content in Categories on English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://florencia.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>https://florencia.netlify.com/categories/development/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://florencia.netlify.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://florencia.netlify.com/categories/food/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://florencia.netlify.com/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://florencia.netlify.com/categories/golang/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://florencia.netlify.com/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hola</title>
+      <link>https://florencia.netlify.com/categories/hola/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://florencia.netlify.com/categories/hola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ingles</title>
+      <link>https://florencia.netlify.com/categories/ingles/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://florencia.netlify.com/categories/ingles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://florencia.netlify.com/categories/r/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://florencia.netlify.com/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Si</title>
+      <link>https://florencia.netlify.com/categories/si/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://florencia.netlify.com/categories/si/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,12 +12,12 @@
         {{ $currentNode := . }}
         {{with .Site.Menus.main}}
         {{ range sort . "Weight" "desc"}}
-            <li class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}nav-current{{end}}" role="menuitem">
-              <a href="{{.URL}}">{{.Name}}</a>
+			    <li class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}nav-current{{end}}" role="menuitem">
+              <a href="{{.URL | absLangURL}}">{{.Name}}</a>
 			</li>
 		{{end}}{{end}}
-		{{ partial "i18nlist.html" . }}
-	    </ul></div>
+		<a>{{ partial "i18nlist.html" . }}<a>
+		</ul></div>
 
       <div class="site-nav-right">
         <div class="social-links">

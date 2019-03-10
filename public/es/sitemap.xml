@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/es/post/masita/</loc>
+    <loc>/es/post/post2/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,6 +49,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/espa/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/espa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/espa/"
                 />
   </url>
   
@@ -165,22 +181,6 @@
   </url>
   
   <url>
-    <loc>/es/tags/r/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/r/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/categories/r/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -214,7 +214,7 @@
   
   <url>
     <loc>/es/tags/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

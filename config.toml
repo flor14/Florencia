@@ -51,7 +51,7 @@ canonifyurls    = true
   weight = 200
 
 [[menu.main]]
-  name = "R"
+  name = "posts"
   url = "/tags/R/"
   weight = 100
 
@@ -66,6 +66,7 @@ canonifyurls    = true
   weight = 95
 
 DefaultContentLanguage = "en"
+#defaultContentLanguageInSubdir = true
 copyright = "Everything is mine"
 
 [languages]
@@ -77,8 +78,8 @@ copyright = "Everything is mine"
      name = "Home"
      weight = 200
      [[languages.en.menu.main]]
+     name = "posts"
      url = "/tags/R/"
-     name = "R"
      weight = 100
      [[languages.en.menu.main]]
      name = "Categories"
@@ -93,16 +94,16 @@ copyright = "Everything is mine"
     title = "Espaniol"
     weight = 2
     [[languages.es.menu.main]]
-     url = "es/"
+     url = "https://florencia.netlify.com/es/"
      name = "Casa"
      weight = 200
-    [[languages.en.menu.main]]
-     url = "es/tags/R/"
-     name = "R"
+    [[languages.es.menu.main]]
+     name = "posts"
+     url = "https://florencia.netlify.com/es/tags/espa/"
      weight = 100
      [[languages.es.menu.main]]
      name = "Categorias"
-     url = "es/categories/"
+     url = "/categories/"
      weight = 99
      [[languages.es.menu.main]]
      name = "Sitios"
