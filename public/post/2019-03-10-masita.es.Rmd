@@ -6,6 +6,7 @@ slug: masita
 categories:
   - R
 tags:
+  - R
   - R Markdown
   - golang
   - plot

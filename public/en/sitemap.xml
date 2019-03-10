@@ -241,8 +241,18 @@
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/r/"
+                />
   </url>
   
   <url>
