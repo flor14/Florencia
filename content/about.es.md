@@ -7,7 +7,7 @@ menu:
     weight: 111
 noauthor: true
 share: false
-title: About me
+title: Sobre mí
 type: page
 ---
 ESPANIOL
