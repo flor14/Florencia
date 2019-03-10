@@ -99,7 +99,7 @@ copyright = "Everything is mine"
      weight = 200
     [[languages.es.menu.main]]
      name = "posts"
-     url = "https://florencia.netlify.com/es/tags/espa/"
+     url = "/tags/espa/"
      weight = 100
      [[languages.es.menu.main]]
      name = "Categorias"
