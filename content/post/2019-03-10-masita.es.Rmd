@@ -1,0 +1,16 @@
+---
+title: masita
+author: María Florencia D'Andrea
+date: '2019-03-10'
+slug: masita
+categories:
+  - R
+tags:
+  - R Markdown
+  - golang
+  - plot
+  - templates
+---
+
+
+asi es la vida

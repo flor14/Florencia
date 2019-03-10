@@ -76,6 +76,10 @@ copyright = "Everything is mine"
      url = "en/"
      name = "Home"
      weight = 200
+     [[languages.en.menu.main]]
+     url = "en/tags/R/"
+     name = "R"
+     weight = 100
   [languages.es]
     title = "Espaniol"
     weight = 2
@@ -83,5 +87,8 @@ copyright = "Everything is mine"
      url = "es/"
      name = "Casa"
      weight = 200
-    
+    [[languages.en.menu.main]]
+     url = "en/tags/R/"
+     name = "R"
+     weight = 100
  

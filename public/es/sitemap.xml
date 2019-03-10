@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/es/post/masita/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/es/post/post1/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -49,7 +54,7 @@
   
   <url>
     <loc>/es/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -76,6 +81,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/go/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/golang/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/golang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/golang/"
                 />
   </url>
   
@@ -112,8 +133,24 @@
   </url>
   
   <url>
+    <loc>/es/tags/plot/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/plot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/plot/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/post/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -129,7 +166,7 @@
   
   <url>
     <loc>/es/categories/r/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -140,6 +177,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/categories/r/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/r-markdown/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/r-markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/r-markdown/"
                 />
   </url>
   
@@ -156,6 +209,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/templates/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/templates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/templates/"
                 />
   </url>
   

@@ -1,0 +1,15 @@
+---
+title: little mass
+author: María Florencia D'Andrea
+date: '2019-03-10'
+slug: little-mass
+categories:
+  - R
+tags:
+  - R Markdown
+  - golang
+  - plot
+  - templates
+---
+
+this is life

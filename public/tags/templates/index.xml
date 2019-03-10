@@ -6,10 +6,19 @@
     <description>Recent content in Templates on English</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/templates/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>little mass</title>
+      <link>/post/little-mass/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/little-mass/</guid>
+      <description>this is life</description>
+    </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
