@@ -80,6 +80,15 @@ copyright = "Everything is mine"
      url = "/tags/R/"
      name = "R"
      weight = 100
+     [[languages.en.menu.main]]
+     name = "Categories"
+     url = "/categories/"
+     weight = 99
+    [[languages.en.menu.main]]
+    name = "External"
+    url = "https://google.com/"
+    weight = 95
+
   [languages.es]
     title = "Espaniol"
     weight = 2
@@ -91,4 +100,12 @@ copyright = "Everything is mine"
      url = "es/tags/R/"
      name = "R"
      weight = 100
+     [[languages.es.menu.main]]
+     name = "Categorias"
+     url = "es/categories/"
+     weight = 99
+     [[languages.es.menu.main]]
+     name = "Sitios"
+     url = "https://google.com/"
+     weight = 95
  
