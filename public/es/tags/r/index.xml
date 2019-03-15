@@ -6,18 +6,27 @@
     <description>Recent content in R on Espaniol</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/es/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>masita</title>
-      <link>/es/post/post2/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>mananana</title>
+      <link>/es/post/mananana/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/es/post/post2/</guid>
-      <description>asi es la vida</description>
+      <guid>/es/post/mananana/</guid>
+      <description>crimen</description>
+    </item>
+    
+    <item>
+      <title>prueba_final</title>
+      <link>/es/post/prueba-final/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/post/prueba-final/</guid>
+      <description>matanga</description>
     </item>
     
   </channel>

@@ -6,15 +6,24 @@
     <description>Recent content in Tags on Espaniol</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Development</title>
+      <link>/es/tags/development/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Espa</title>
       <link>/es/tags/espa/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/espa/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Go</title>
       <link>/es/tags/go/</link>
-      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/go/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>Golang</title>
       <link>/es/tags/golang/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/golang/</guid>
       <description></description>
@@ -41,7 +50,7 @@
     <item>
       <title>Hugo</title>
       <link>/es/tags/hugo/</link>
-      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/hugo/</guid>
       <description></description>
@@ -50,27 +59,54 @@
     <item>
       <title>Plot</title>
       <link>/es/tags/plot/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>R</title>
+      <link>/es/tags/r/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R Markdown</title>
       <link>/es/tags/r-markdown/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Regression</title>
+      <link>/es/tags/regression/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Templates</title>
       <link>/es/tags/templates/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Themes</title>
+      <link>/es/tags/themes/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/themes/</guid>
       <description></description>
     </item>
     

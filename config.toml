@@ -64,7 +64,7 @@ canonifyurls    = true
   name = "External"
   url = "https://google.com/"
   weight = 95
-
+  
 DefaultContentLanguage = "en"
 #defaultContentLanguageInSubdir = true
 copyright = "Everything is mine"
@@ -83,7 +83,7 @@ copyright = "Everything is mine"
      weight = 100
      [[languages.en.menu.main]]
      name = "Categories"
-     url = "/categories/"
+     url = "/categorias/"
      weight = 99
     [[languages.en.menu.main]]
     name = "External"

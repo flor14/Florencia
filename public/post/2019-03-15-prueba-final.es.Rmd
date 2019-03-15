@@ -1,0 +1,27 @@
+---
+title: prueba_final
+author: pipi
+date: '2019-03-15'
+slug: prueba-final
+categories:
+  - food
+  - ingles
+  - hola
+  - golang
+  - Development
+  - espa
+tags:
+  - development
+  - espa
+  - go
+  - golang
+  - hugo
+  - plot
+  - r
+  - R Markdown
+  - regression
+  - templates
+  - themes
+---
+
+matanga

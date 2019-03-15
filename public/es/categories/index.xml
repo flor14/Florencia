@@ -11,9 +11,54 @@
     
     
     <item>
+      <title>Development</title>
+      <link>/es/categories/development/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Espa</title>
+      <link>/es/categories/espa/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/categories/espa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>/es/categories/food/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>/es/categories/golang/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hola</title>
+      <link>/es/categories/hola/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/categories/hola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ingles</title>
       <link>/es/categories/ingles/</link>
-      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/categories/ingles/</guid>
       <description></description>
@@ -22,9 +67,18 @@
     <item>
       <title>R</title>
       <link>/es/categories/r/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Si</title>
+      <link>/es/categories/si/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/categories/si/</guid>
       <description></description>
     </item>
     

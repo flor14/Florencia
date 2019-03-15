@@ -6,10 +6,28 @@
     <description>Recent content in Go on Espaniol</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/es/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mananana</title>
+      <link>/es/post/mananana/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/post/mananana/</guid>
+      <description>crimen</description>
+    </item>
+    
+    <item>
+      <title>prueba_final</title>
+      <link>/es/post/prueba-final/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/post/prueba-final/</guid>
+      <description>matanga</description>
+    </item>
     
     <item>
       <title>espaniol</title>

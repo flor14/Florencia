@@ -1,0 +1,28 @@
+---
+title: mananana
+author: pipi
+date: '2019-03-15'
+slug: mananana
+categories:
+  - Development
+  - espa
+  - food
+  - golang
+  - hola
+  - ingles
+  - r
+  - si
+  - R
+tags:
+  - development
+  - espa
+  - go
+  - golang
+  - hugo
+  - plot
+  - r
+  - regression
+  - R Markdown
+---
+
+crimen

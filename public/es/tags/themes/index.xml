@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Themes on Espaniol</title>
+    <link>/es/tags/themes/</link>
+    <description>Recent content in Themes on Espaniol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/es/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>prueba_final</title>
+      <link>/es/post/prueba-final/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/post/prueba-final/</guid>
+      <description>matanga</description>
+    </item>
+    
+  </channel>
+</rss>
