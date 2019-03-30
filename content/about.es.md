@@ -10,6 +10,14 @@ share: false
 title: Sobre mí
 type: page
 ---
-ESPANIOL
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !
+
+Maria Florencia D'Andrea
+
+- Doctora en Ciencias Biológicas de la Universidad de Buenos Aires (2019)
+
+Becaria CONICET. Lugar de trabajo: INTA Castelar.
+
+- Profesora de Enseñanaza Media y Superior en Ciencias Biológicas (2015)
+
+- Licenciada en Ciencias Biológicas (2012)
+

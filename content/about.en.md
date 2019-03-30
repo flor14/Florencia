@@ -10,7 +10,13 @@ share: false
 title: About me
 type: page
 ---
-INGLES
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !
+
+Maria Florencia D'Andrea
+
+- PhD Biological Sciencies. University of Buenos Aires (2019)
+
+Scholarship CONICET. INTA Castelar.
+
+- Professorship on Teaching in Biological Sciencies (ver traduccion). University of Buenos Aires  (2015)
+
+- Licenciate in Biological Sciencies. University of Buenos Aires (2012)
