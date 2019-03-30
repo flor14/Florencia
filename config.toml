@@ -83,7 +83,7 @@ copyright = "Everything is mine"
      weight = 100
      [[languages.en.menu.main]]
      name = "Categories"
-     url = "/categorias/"
+     url = "/categories/"
      weight = 99
     [[languages.en.menu.main]]
     name = "External"
@@ -103,7 +103,7 @@ copyright = "Everything is mine"
      weight = 100
      [[languages.es.menu.main]]
      name = "Categorias"
-     url = "/categories/"
+     url = "/categorias/"
      weight = 99
      [[languages.es.menu.main]]
      name = "Sitios"
