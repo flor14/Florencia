@@ -98,22 +98,6 @@
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/development/"
-                />
-  </url>
-  
-  <url>
     <loc>/categories/development/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -126,6 +110,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/categories/development/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/development/"
                 />
   </url>
   
@@ -194,22 +194,6 @@
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/golang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/golang/"
-                />
-  </url>
-  
-  <url>
     <loc>/categories/golang/</loc>
     <lastmod>2014-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -222,6 +206,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/categories/golang/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/golang/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/golang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/golang/"
                 />
   </url>
   
@@ -306,22 +306,6 @@
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/r/"
-                />
-  </url>
-  
-  <url>
     <loc>/categories/r/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -334,6 +318,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/categories/r/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/r/"
                 />
   </url>
   
