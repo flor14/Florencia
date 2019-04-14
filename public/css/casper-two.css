@@ -52,8 +52,13 @@
     .ctsingle .site-nav {
         position: relative;
         top: -70px;
-    }    
+    }  
+    .ctsingle .Translations	{
+        position: relative;
+        top: -70px;
+    }  
 }
+
 
 @media (min-width: 795px) {  
     .ctsingle .post-feed p {
